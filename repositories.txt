@@ -1,0 +1,9 @@
+dns-technologies/light_compressor
+dns-technologies/pgcopylib
+dns-technologies/pgpack
+dns-technologies/nativelib
+dns-technologies/base_dumper
+dns-technologies/native_dumper
+dns-technologies/pgpack_dumper
+dns-technologies/dbhose_utils
+dns-technologies/dbhose_airflow
