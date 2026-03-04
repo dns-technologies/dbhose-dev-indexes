@@ -30,7 +30,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install ghpypi
-        run: pip install ghpypi
+        run: pip install ghpypi --extra-index-url https://paullockaby.github.io/ghpypi/simple
 
       - name: Generate index
         run: |
