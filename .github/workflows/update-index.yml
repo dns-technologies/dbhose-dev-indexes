@@ -39,6 +39,11 @@ jobs:
             --repositories repositories.txt \
             --token ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Customize index title
+        run: |
+          find docs -name "*.html" -type f -exec sed -i 's/My Private PyPI/DBHose Developer PyPI/g' {} \;
+          find docs -name "*.html" -type f -exec sed -i 's/<title>My Private PyPI/<title>DBHose Developer PyPI/g' {} \;
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
