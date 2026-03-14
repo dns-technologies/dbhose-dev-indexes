@@ -4,18 +4,21 @@
 
 **Адрес индекса:** [https://dns-technologies.github.io/dbhose-dev-pip/](https://dns-technologies.github.io/dbhose-dev-pip/)
 
-![Снимок страницы индекса](screenshot.png) *(Вы можете добавить скриншот вашей страницы)*
-
 ## 📋 Список доступных пакетов
 
 На данный момент в индексе автоматически публикуются следующие пакеты:
 
-*   [`light-compressor`](https://github.com/dns-technologies/light-compressor) — последняя версия: `0.1.0.dev0`
-*   [`native-dumper`](https://github.com/dns-technologies/native-dumper) — последняя версия: `0.3.6.dev0`
-*   [`nativelib`](https://github.com/dns-technologies/nativelib) — последняя версия: `0.2.3.dev1`
-*   [`pgpack-dumper`](https://github.com/dns-technologies/pgpack_dumper) — последняя версия: `0.3.6.dev0`
+*   [`light-compressor`](https://github.com/dns-technologies/light_compressor)
+*   [`pgcopylib`](https://github.com/dns-technologies/pgcopylib)
+*   [`pgpack`](https://github.com/dns-technologies/pgpack)
+*   [`nativelib`](https://github.com/dns-technologies/nativelib)
+*   [`base-dumper`](https://github.com/dns-technologies/base_dumper)
+*   [`native-dumper`](https://github.com/dns-technologies/native_dumper)
+*   [`pgpack-dumper`](https://github.com/dns-technologies/pgpack_dumper)
+*   [`dbhose-utils`](https://github.com/dns-technologies/dbhose_utils)
+*   [`dbhose-airflow`](https://github.com/dns-technologies/dbhose_airflow)
 
-Список автоматически обновляется при появлении новых релизов в исходных репозиториях.
+Версии автоматически обновляются при появлении новых релизов в исходных репозиториях.
 
 ## 🚀 Как использовать
 
