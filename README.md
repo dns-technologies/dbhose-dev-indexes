@@ -9,6 +9,7 @@
 На данный момент в индексе автоматически публикуются следующие пакеты:
 
 *   [`light-compressor`](https://github.com/dns-technologies/light_compressor)
+*   [`csvpack`](https://github.com/dns-technologies/csvpack)
 *   [`pgcopylib`](https://github.com/dns-technologies/pgcopylib)
 *   [`pgpack`](https://github.com/dns-technologies/pgpack)
 *   [`nativelib`](https://github.com/dns-technologies/nativelib)
